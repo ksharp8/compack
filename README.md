@@ -43,7 +43,7 @@ example:
 ```
 
 
-4 Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
+4 **Modernizr** is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
 
 
 5 **PIE** makes Internet Explorer 6-9 capable of rendering several of the most useful CSS3 decoration features.
