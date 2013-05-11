@@ -23,12 +23,12 @@ example:
 example:
 
 ```js
-<!–-[if IE 6]>
+<!--[if IE 6]>
 <script type="text/javascript" src="DD_belatedPNG_0.0.8a-min.js"></script>
 <script>
 DD_belatedPNG.fix('id or class, type');
 </script>
-<![endif]–->
+<![endif]-->
 ```
 
 P.S.type:img or background.
@@ -38,7 +38,7 @@ P.S.type:img or background.
 example:
 
 ```js
-<!-[if lt IE 9]>
+<!--[if lt IE 9]>
 <script type="text/javascript" src="html5shiv-printshiv.js"></script>
 <![endif]-->
 ```
