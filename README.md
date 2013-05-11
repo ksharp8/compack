@@ -27,6 +27,7 @@ DD_belatedPNG.fix(‘id or class, type’);
 </script>
 <![endif]–>
 `
+
 P.S.type:img or background.
 
 
@@ -48,6 +49,7 @@ example:
 `css
 behavior: url(path/to/pie_files/PIE.htc);
 `
+
 P.S.In that same CSS rule, add this style line.
 
 
