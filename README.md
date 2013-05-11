@@ -22,16 +22,14 @@ example:
 2.DD_belatedPNG a Javascript library that sandwiches PNG image support into IE6 without much fuss.
 example:
 
-<!–[if IE 6]>
-
 ```js
+<!–[if IE 6]>
 <script type="text/javascript" src="DD_belatedPNG_0.0.8a-min.js"></script>
 <script>
 DD_belatedPNG.fix('id or class, type');
 </script>
-```
-
 <![endif]–>
+```
 
 P.S.type:img or background.
 
@@ -39,12 +37,11 @@ P.S.type:img or background.
 3.html5shiv is a HTML5 IE enabling script.
 example:
 
-<!--[if lt IE 9]>
 ```js
+<!--[if lt IE 9]>
 <script type="text/javascript" src="html5shiv-printshiv.js"></script>
-```
 <![endif]-->
-
+```
 
 
 4.Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
