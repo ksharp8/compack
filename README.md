@@ -25,7 +25,7 @@ example:
 <!–[if IE 6]>
 
 ```js
-<script type=”text/javascript” src=”DD_belatedPNG_0.0.8a-min.js”></script>
+<script type="text/javascript" src="DD_belatedPNG_0.0.8a-min.js"></script>
 <script>
 DD_belatedPNG.fix('id or class, type');
 </script>
