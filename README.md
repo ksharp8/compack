@@ -8,7 +8,7 @@ usage
 =======
 
 
-2. **cssFx** is a standalone polyfill that adds all the vendor-specific CSS3 properties you normally have to add for older browsers. 
+1 **cssFx** is a standalone polyfill that adds all the vendor-specific CSS3 properties you normally have to add for older browsers. 
 
 example:
 ```css
@@ -19,7 +19,7 @@ example:
 ```
 
 
-3. **DD_belatedPNG** a Javascript library that sandwiches PNG image support into IE6 without much fuss.
+2 **DD_belatedPNG** a Javascript library that sandwiches PNG image support into IE6 without much fuss.
 
 example:
 ```js
@@ -33,7 +33,7 @@ DD_belatedPNG.fix('id or class, type');
 P.S.type:img or background.
 
 
-4. **html5shiv** is a HTML5 IE enabling script.
+3 **html5shiv** is a HTML5 IE enabling script.
 
 example:
 ```js
@@ -43,10 +43,10 @@ example:
 ```
 
 
-5. Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
+4 Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
 
 
-6. **PIE** makes Internet Explorer 6-9 capable of rendering several of the most useful CSS3 decoration features.
+5 **PIE** makes Internet Explorer 6-9 capable of rendering several of the most useful CSS3 decoration features.
 
 example:
 ```css
@@ -55,7 +55,7 @@ behavior: url(path/to/pie_files/PIE.htc);
 P.S.In that same CSS rule, add this style line.
 
 
-7. **minmax** makes CSS minimum and maximum sizes.
+6 **minmax** makes CSS minimum and maximum sizes.
 
 example:
 ```js
@@ -63,7 +63,7 @@ example:
 ```
 
 
-8. **fixed** fix IE6 fixed positioning.
+7 **fixed** fix IE6 fixed positioning.
 
 example:
 
