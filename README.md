@@ -11,10 +11,8 @@ usage
 1.cssFx is a standalone polyfill that adds all the vendor-specific CSS3 properties you normally have to add for older browsers. 
 example:
 
-`css
-<link rel="stylesheet" href="effects.css" class="cssfx"> 
 `
-`js
+<link rel="stylesheet" href="effects.css" class="cssfx"> 
 <script src="cssfx.min.js"></script>
 `
 
@@ -24,7 +22,7 @@ example:
 
 <!–[if IE 6]>
 
-`js
+`
 <script type=”text/javascript” src=”DD_belatedPNG_0.0.8a-min.js”></script>
 <script>
 DD_belatedPNG.fix('id or class, type');
@@ -40,7 +38,7 @@ P.S.type:img or background.
 example:
 
 <!--[if lt IE 9]>
-`js
+`
 <script type="text/javascript" src="html5shiv-printshiv.js"></script>
 `
 <![endif]-->
@@ -52,7 +50,7 @@ example:
 5.PIE makes Internet Explorer 6-9 capable of rendering several of the most useful CSS3 decoration features.
 example:
 
-`css
+`
 behavior: url(path/to/pie_files/PIE.htc);
 `
 
@@ -62,6 +60,6 @@ P.S.In that same CSS rule, add this style line.
 6.minmax makes CSS minimum and maximum sizes.
 example:
 
-`js
+`
 <script type="text/javascript" src="minmax.js"></script>
 `
