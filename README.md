@@ -8,7 +8,7 @@ usage
 =======
 
 
-1.**cssFx** is a standalone polyfill that adds all the vendor-specific CSS3 properties you normally have to add for older browsers. 
+1. **cssFx** is a standalone polyfill that adds all the vendor-specific CSS3 properties you normally have to add for older browsers. 
 example:
 ```css
 <link rel="stylesheet" href="effects.css" class="cssfx"> 
