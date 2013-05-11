@@ -1,7 +1,7 @@
 compack
 =======
 
-A pack of multi explorer support
+A pack of fixing old explorers Compatibility.
 
 
 usage
