@@ -68,3 +68,22 @@ example:
 example:
 
 add `ie6fixedTL` or `ie6fixedBR` to class.
+
+
+8 **normalize** makes browsers render all elements more consistently and in line with modern standards. 
+
+example:
+```js
+<script type="text/javascript" src="normalize.css"></script>
+```
+
+
+9 **csshover3**  fix IE6 hover.
+
+example
+```css
+<!--[if IE 6]> 
+  <style>body {behavior: url("csshover3.htc");}</style>
+<![endif]-->
+```
+
