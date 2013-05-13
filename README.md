@@ -1,7 +1,7 @@
 compack
 =======
 
-A pack of fixing older browsers Compatibility.
+A pack of soloving older browsers Compatibility.
 
 
 usage
