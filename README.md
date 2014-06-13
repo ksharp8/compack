@@ -87,3 +87,12 @@ example
 <![endif]-->
 ```
 
+
+10 **placeholder**  A jquery plugin to support the HTML5 placeholder attribute on most non-HTML5-compliant browsers.
+
+example
+```js
+<script type="text/javascript" src="placeholder.1.3.min.js"></script>
+$.Placeholder.init(); // default setting
+$.Placeholder.init({ color : 'rgb(255, 255, 0)' }); // custom placeholder text color
+```
